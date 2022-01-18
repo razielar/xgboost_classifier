@@ -1,4 +1,5 @@
 ## Ignore the following files:
 *~
 __pycache__
+.ipynb_checkpoints/
 
